@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u2_div {
+#u4_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -27,7 +27,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u2 {
+#u4 {
   border-width:0px;
   position:absolute;
   left:73px;
@@ -35,7 +35,7 @@
   width:140px;
   height:40px;
 }
-#u2_text {
+#u4_text {
   border-width:0px;
   position:absolute;
   left:2px;
